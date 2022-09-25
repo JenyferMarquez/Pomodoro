@@ -8,6 +8,6 @@ temporizador de veinticinco minutos (cuenta atrás) y la opción de agregar tare
 
 ## Construido con 🛠️
 
-HTML
-CSS
-JAVASCRIPT
+*Html 
+*JAVASCRIPT
+*CSS
