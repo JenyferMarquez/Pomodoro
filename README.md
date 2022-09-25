@@ -1,7 +1,7 @@
 # Pomodoro
 
-Aplicación realizada con fines academicos. Busca permitir a los usuarios aplicar la tecnica de pomodoro, usando un 
-temporizador de veinticinco minutos y la opción de agregar tareas.
+Aplicación realizada con fines academicos, busca permitir a los usuarios aplicar la tecnica de pomodoro. Usa un 
+temporizador de veinticinco minutos (cuenta atrás) y la opción de agregar tareas.
 
 ## Comenzando 🚀
 
